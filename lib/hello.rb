@@ -9,4 +9,4 @@ end
 # call your method here!
 names = ["Tim", "Tom", "Jim"]
 
-hello_t
+hello_t(names)
