@@ -7,3 +7,6 @@ def hello_t(array)
 end
 
 # call your method here!
+names = ["Tim", "Tom", "Jim"]
+
+hello_t
